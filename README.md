@@ -2,6 +2,7 @@
 
 Projeto de extensão universitária: site apresentativo da **Associação Cultural Companhia Pernas Pro Ar (CPPA)**, unidade de Sete Lagoas – MG.
 
+Disponivel para visualização em: https://kassielm.github.io/CPPA/
 ---
 
 ## Sobre a instituição
